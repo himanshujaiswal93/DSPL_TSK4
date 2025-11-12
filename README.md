@@ -54,12 +54,14 @@ Visualized clusters on the basis of Annual Income and Spending Score
 Used color-coded scatter plot for clarity
 
 📊 Cluster Insights
-Cluster	Age (avg)	Annual Income (avg)	Spending Score (avg)	Segment Description
-0	~42	~55	~49	Middle-aged, average income & spending
-1	~33	~86	~82	High income & high spending (Premium customers)
-2	~25	~25	~79	Low income but high spending (Impulsive buyers)
-3	~41	~88	~17	High income, low spending (Potential target group)
-4	~45	~26	~21	Low income, low spending (Budget-conscious)
+| Cluster | Age (avg) | Annual Income (avg) | Spending Score (avg) | Segment Description                                |
+| ------- | --------- | ------------------- | -------------------- | -------------------------------------------------- |
+| 0       | ~42       | ~55                 | ~49                  | Middle-aged, average income & spending             |
+| 1       | ~33       | ~86                 | ~82                  | High income & high spending (Premium customers)    |
+| 2       | ~25       | ~25                 | ~79                  | Low income but high spending (Impulsive buyers)    |
+| 3       | ~41       | ~88                 | ~17                  | High income, low spending (Potential target group) |
+| 4       | ~45       | ~26                 | ~21                  | Low income, low spending (Budget-conscious)        |
+
 🧠 Business Insights
 
 Cluster 1: Focus for premium offers & loyalty programs
